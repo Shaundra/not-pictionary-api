@@ -1,24 +1,7 @@
-# README
+## Not-Pictionary
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Not-Pictionary is a browser-based drawing and guessing game. 
 
-Things you may want to cover:
+Built with React (16), vanilla CSS, and Ruby on Rails (5). Not-Pictionary uses the ActionCable WebSocket framework to support interactive real-time visual and textual collaboration.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This repository holds the Rails API for the game.
